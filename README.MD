@@ -3,3 +3,5 @@
 2. 笔记——类型即正义：TypeScript 从入门到实践 [点击跳转](https://bu4sbvx4se.feishu.cn/docs/doccnwihwAREFJhtedlGmwc2tqc)
 3. React Hook 文档阅读笔记 [点击跳转](https://bu4sbvx4se.feishu.cn/docs/doccnd199uStIP8wabCDatHK0Jh)
 4. React设计思想笔记 [点击跳转](https://bu4sbvx4se.feishu.cn/docs/doccn83AdM0jJBkZCC463DCuZGg)
+5. 笔记——用动画和实战打开 React Hooks [点击跳转](https://bu4sbvx4se.feishu.cn/docs/doccndy8WkSTm8AsNLj46xCw7ah)
+6. Flux架构 [点击跳转](https://bu4sbvx4se.feishu.cn/docs/doccnROpm7LMNcVvxVE1mMXJNya)
